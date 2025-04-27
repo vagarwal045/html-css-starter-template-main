@@ -1,0 +1,36 @@
+/* CSS SETUP */
+@import "css/reset-css.css";
+@import "css/variables.css";
+@import "assets/fonts/custom-fonts.css";
+
+/* CSS HELPERS */
+@import "css/helpers/sticky-footer.css";
+
+/* CSS TOOLS */
+/* @import "css/tools/pixel-perfect.css"; */
+/* @import "css/tools/grid.css"; */
+/* @import "css/tools/font-size.css"; */
+/* @import "css/tools/outlines.css"; */
+
+/* COMMON COMPONENTS */
+@import "components/common/page/page.css";
+@import "components/common/container/container.css";
+@import "components/common/header/header.css";
+@import "components/common/nav/nav.css";
+@import "components/common/logo-link/logo-link.css";
+@import "components/common/title/title.css";
+@import "components/common/main-content/main-content.css";
+@import "components/common/btn/btn.css";
+@import "components/common/footer/footer.css";
+
+/* EXTRA COMPONENTS */
+@import "components/extra/burger-menu/burger-menu.css";
+@import "components/extra/social/social.css";
+@import "components/extra/card/card.css";
+
+/* LAYOUT COMPONENTS */
+@import "components/layout/grid-list/grid-list.css";
+@import "components/layout/grid-cards/grid-cards.css";
+
+/* CSS MEDIA QUERIES */
+@import "css/media-queries.css";

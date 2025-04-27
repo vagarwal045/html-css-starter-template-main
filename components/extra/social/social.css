@@ -1,0 +1,11 @@
+.social {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (min-width: 600px) {
+  .social {
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,31 @@
+.nav {
+  
+}
+
+
+/*
+  .nav__list {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+  }
+*/
+
+.nav__item {
+  
+}
+
+.nav__link {
+  padding: var(--sp-nav-link);
+  display: inline-flex;
+  background-color: var(--c-link-bg);
+  border-radius: var(--br-link);
+}
+
+/*
+  @media (min-width: 536px) {
+    .nav__list {
+      flex-direction: row;
+    }
+  }
+*/

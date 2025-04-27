@@ -1,0 +1,18 @@
+/* CSS VARIABLES */
+@import "vars/fonts.css";
+@import "vars/colors.css";
+@import "vars/sizes.css";
+
+/*
+  CSS variables naming
+
+  --ff-: font-family;
+  --fsz-: font-size;
+  --fwg-: font-weight;
+  --flh-: line-height;
+  --c-: color;
+  --w-: width;
+  --gap-: gap;
+  --sp-: spacing;
+  --br-: border-radius;
+*/

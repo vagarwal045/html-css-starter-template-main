@@ -1,0 +1,7 @@
+.btn {
+  border-radius: var(--br-btn);
+}
+
+.btn > * + * {
+  margin-left: 20px;
+}
